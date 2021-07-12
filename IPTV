@@ -987,7 +987,7 @@ http://210.210.155.66/h/h141/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="MOVIES",Waku-Waku Japan
-
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" group-title="MOVIES",TvN
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
